@@ -1,4 +1,4 @@
-
+<section class="clients-section">
     <div class="anim-icons">
         <span class="icon icon-dots-3 wow zoomIn"></span>
         <span class="icon icon-circle-blue wow zoomIn"></span>

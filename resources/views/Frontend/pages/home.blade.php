@@ -20,8 +20,8 @@
     <!--End About Section -->
 
     <!-- Event Logo Section -->
-    <section class="clients-section">
-        <div class="sponsors-outer">
+    <section class="event-section">
+        <div class="event-outer">
             <div class="auto-container">
                 <div class="sec-title  text-center">
                     <span class="title">Exhibition</span>
@@ -29,40 +29,40 @@
                 </div>
 
                 <div class="row">
-                    <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                        <figure class="image-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/Sadakalo/Sadakalo_Logo.png')}}" alt=""></a></figure>
+                    <div class="event-block col-lg-3 col-md-6 col-sm-12">
+                        <figure class="image-logo-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/Sadakalo/Sadakalo_Logo.png')}}" alt=""></a></figure>
                     </div>
 
-                    <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                        <figure class="image-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/RongReginee/RongReginee_Logo.png')}}" alt=""></a></figure>
+                    <div class="event-block col-lg-3 col-md-6 col-sm-12">
+                        <figure class="image-logo-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/RongReginee/RongReginee_Logo.png')}}" alt=""></a></figure>
                     </div>
 
-                    <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                        <figure class="image-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/Kay Kraft/Kay Kraft_Logo.png')}}" alt=""></a></figure>
+                    <div class="event-block col-lg-3 col-md-6 col-sm-12">
+                        <figure class="image-logo-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/Kay Kraft/Kay Kraft_Logo.png')}}" alt=""></a></figure>
                     </div>
 
-                    <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                        <figure class="image-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/DESHAL/DESHAL_Logo.png')}}" alt=""></a></figure>
+                    <div class="event-block col-lg-3 col-md-6 col-sm-12">
+                        <figure class="image-logo-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/DESHAL/DESHAL_Logo.png')}}" alt=""></a></figure>
                     </div>
 
-                    <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                        <figure class="image-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/BIBIANA/BIBIANA_Logo.png')}}" alt=""></a></figure>
+                    <div class="event-block col-lg-3 col-md-6 col-sm-12">
+                        <figure class="image-logo-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/BIBIANA/BIBIANA_Logo.png')}}" alt=""></a></figure>
                     </div>
 
-                    <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                        <figure class="image-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/RHEE/RHEE_Logo.png')}}" alt=""></a></figure>
+                    <div class="event-block col-lg-3 col-md-6 col-sm-12">
+                        <figure class="image-logo-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/RHEE/RHEE_Logo.png')}}" alt=""></a></figure>
                     </div>
 
-                    <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                        <figure class="image-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/BANGLA SELAYI/BANGLA SELAYI_Logo.png')}}" alt=""></a></figure>
+                    <div class="event-block col-lg-3 col-md-6 col-sm-12">
+                        <figure class="image-logo-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/BANGLA SELAYI/BANGLA SELAYI_Logo.png')}}" alt=""></a></figure>
                     </div>
 
-                    <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                        <figure class="image-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/Signet/Signet_Logo.png')}}" alt=""></a></figure>
+                    <div class="event-block col-lg-3 col-md-6 col-sm-12">
+                        <figure class="image-logo-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/Signet/Signet_Logo.png')}}" alt=""></a></figure>
                     </div>
 
-                    <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                        <figure class="image-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/DASHOBHUJA/DASHOBHUJA_Logo.png')}}" alt=""></a></figure>
+                    <div class="event-block col-lg-3 col-md-6 col-sm-12">
+                        <figure class="image-logo-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/DASHOBHUJA/DASHOBHUJA_Logo.png')}}" alt=""></a></figure>
                     </div>
 
                 </div>
