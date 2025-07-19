@@ -18,6 +18,8 @@
     <!-- About Section -->
     @include('Frontend.component.about')
     <!--End About Section -->
+
+    <!-- Event Logo Section -->
     <section class="clients-section">
         <div class="sponsors-outer">
             <div class="auto-container">
@@ -67,6 +69,7 @@
             </div>
         </div>
     </section>
+    <!--End About Section -->
 
     <!-- schedule Section -->
     @include('Frontend.component.schedule')
