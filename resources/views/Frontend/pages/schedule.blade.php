@@ -18,7 +18,7 @@
     <div class="auto-container">
         <div class="sec-title text-center">
             <span class="title">Festival Schedule</span>
-            <h2>2024</h2>
+            <h2>2025</h2>
         </div>
 
         <div class="row">
@@ -40,7 +40,7 @@
                             <td>Kick-off Festival</td>
                             <td>-</td>
                             <td rowspan="17">
-                                <a href="https://filmfreeway.com/BengaliFilmFestivalofDallas/tickets" title="Festival of Dallas 2024" target="_blank" class="theme-btn btn-style-two"><span class="btn-title">Get Ticket</span></a>
+                                <a href="https://filmfreeway.com/BengaliFilmFestivalofDallas/tickets" title="Festival of Dallas 2025" target="_blank" class="theme-btn btn-style-two"><span class="btn-title">Get Ticket</span></a>
                             </td>
                         </tr>
                         <tr>

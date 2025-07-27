@@ -293,6 +293,24 @@
             <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
                 <div class="inner-box">
                     <div class="image-box">
+                        <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/images/team/Adviser/200 x 200/james faust.png')}}" alt="james faust"></a></figure>
+                    </div>
+                    <div class="info-box">
+                        <div class="inner">
+                            <h4 class="name"><a href="javascript:void(0)">James Faust</a></h4>
+                            <span class="designation">Adviser</span>
+                            <ul class="social-links social-icon-colored">
+                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                <div class="inner-box">
+                    <div class="image-box">
                         <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/images/team/curator/Curator Premendra Mazumder.jpg')}}" alt=""></a></figure>
                     </div>
                     <div class="info-box">
