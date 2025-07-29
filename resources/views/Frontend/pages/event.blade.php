@@ -6,7 +6,7 @@
 
 @section('bg') {{asset('assets/images/background/banner.jpg')}} @endsection
 
-@section('page_name') Nakshikanther Chhobi @endsection
+@section('page_name') Nakshikanther Chobi @endsection
 
 
 @section('content')

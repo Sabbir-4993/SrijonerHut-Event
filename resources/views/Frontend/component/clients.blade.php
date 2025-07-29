@@ -10,7 +10,6 @@
             <h2>Official Sponsors</h2>
         </div>
 
-
         <div class="sponsors-outer">
             <h3>Sponsors</h3>
             <div class="row">
@@ -76,6 +75,10 @@
 
                 <div class="client-block col-lg-3 col-md-6 col-sm-12">
                     <figure class="image-box"><a href="#"><img src="{{asset('../../assets/images/clients/Community/04.jpg')}}" alt=""></a></figure>
+                </div>
+
+                <div class="client-block col-lg-3 col-md-6 col-sm-12">
+                    <figure class="image-box"><a href="#"><img src="{{asset('../../assets/images/clients/Community/Bipam.jpg')}}" alt=""></a></figure>
                 </div>
 
                 <div class="client-block col-lg-3 col-md-6 col-sm-12">

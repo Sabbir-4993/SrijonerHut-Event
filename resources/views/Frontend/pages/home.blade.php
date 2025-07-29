@@ -25,44 +25,52 @@
             <div class="auto-container">
                 <div class="sec-title  text-center">
                     <span class="title">Exhibition</span>
-                    <h2>Nakshikanther Chhobi</h2>
+                    <h2>Nakshikanther Chobi</h2>
                 </div>
 
                 <div class="row">
                     <div class="event-block col-lg-3 col-md-6 col-sm-12">
-                        <figure class="image-logo-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/Sadakalo/Sadakalo_Logo.png')}}" alt=""></a></figure>
+                        <figure class="image-logo-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/150x150/Sadakalo.png')}}" alt="Sadakalo"></a></figure>
                     </div>
 
                     <div class="event-block col-lg-3 col-md-6 col-sm-12">
-                        <figure class="image-logo-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/RongReginee/RongReginee_Logo.png')}}" alt=""></a></figure>
+                        <figure class="image-logo-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/150x150/RHEE.png')}}" alt="RHEE"></a></figure>
                     </div>
 
                     <div class="event-block col-lg-3 col-md-6 col-sm-12">
-                        <figure class="image-logo-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/Kay Kraft/Kay Kraft_Logo.png')}}" alt=""></a></figure>
+                        <figure class="image-logo-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/150x150/Dosho-Bhuja.png')}}" alt="Dosho-Bhuja"></a></figure>
                     </div>
 
                     <div class="event-block col-lg-3 col-md-6 col-sm-12">
-                        <figure class="image-logo-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/DESHAL/DESHAL_Logo.png')}}" alt=""></a></figure>
+                        <figure class="image-logo-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/150x150/BANGLA SELAYI.png')}}" alt="BANGLA SELAYI"></a></figure>
                     </div>
 
                     <div class="event-block col-lg-3 col-md-6 col-sm-12">
-                        <figure class="image-logo-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/BIBIANA/BIBIANA_Logo.png')}}" alt=""></a></figure>
+                        <figure class="image-logo-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/150x150/DESHAL.png')}}" alt="DESHAL"></a></figure>
                     </div>
 
                     <div class="event-block col-lg-3 col-md-6 col-sm-12">
-                        <figure class="image-logo-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/RHEE/RHEE_Logo.png')}}" alt=""></a></figure>
+                        <figure class="image-logo-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/150x150/Mohamaya.png')}}" alt="Mohamaya"></a></figure>
                     </div>
 
                     <div class="event-block col-lg-3 col-md-6 col-sm-12">
-                        <figure class="image-logo-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/BANGLA SELAYI/BANGLA SELAYI_Logo.png')}}" alt=""></a></figure>
+                        <figure class="image-logo-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/150x150/BIBIANA.png')}}" alt="BIBIANA"></a></figure>
                     </div>
 
                     <div class="event-block col-lg-3 col-md-6 col-sm-12">
-                        <figure class="image-logo-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/Signet/Signet_Logo.png')}}" alt=""></a></figure>
+                        <figure class="image-logo-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/150x150/Kay Kraft.png')}}" alt="Kay Kraft"></a></figure>
                     </div>
 
                     <div class="event-block col-lg-3 col-md-6 col-sm-12">
-                        <figure class="image-logo-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/DASHOBHUJA/DASHOBHUJA_Logo.png')}}" alt=""></a></figure>
+                        <figure class="image-logo-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/150x150/RongReginee.png')}}" alt="RongReginee"></a></figure>
+                    </div>
+
+                    <div class="event-block col-lg-3 col-md-6 col-sm-12">
+                        <figure class="image-logo-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/150x150/Sadal.png')}}" alt="Sadal"></a></figure>
+                    </div>
+
+                    <div class="event-block col-lg-3 col-md-6 col-sm-12">
+                        <figure class="image-logo-box"><a href="{{route('event')}}"><img src="{{asset('assets/images/event/150x150/Signet.png')}}" alt="Signet"></a></figure>
                     </div>
 
                 </div>

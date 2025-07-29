@@ -35,7 +35,7 @@ Route::group(['prefix'=>'festival', 'as'=>'festival.'], function (){
 });
 
 Route::get('/about', [PageController::class, 'about'])->name('about');
-Route::get('/Nakshikantha', [PageController::class, 'event'])->name('event');
+Route::get('/nakshikantha', [PageController::class, 'event'])->name('event');
 Route::group(['prefix'=>'news', 'as'=>'news.'], function (){
     Route::get('/media', [PageController::class, 'media'])->name('media');
     Route::get('/gallery', [PageController::class, 'gallery'])->name('gallery');
