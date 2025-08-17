@@ -85,7 +85,7 @@
                             <td>Bijoyar Pore</td>
                         </tr>
                         <tr>
-                            <td>05:00PM</td>
+                            <td>04:00PM</td>
                             <td>Fashion show: </br> Nokshikanthar Chobi</td>
                             <td>-</td>
                         </tr>

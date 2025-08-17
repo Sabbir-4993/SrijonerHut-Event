@@ -82,7 +82,7 @@
                 </div>
 
                 <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                    <figure class="image-box"><a href="#"><img src="{{asset('../../assets/images/clients/Community/Bipam.jpg')}}" alt=""></a></figure>
+                    <figure class="image-box"><a href="#"><img src="{{asset('../../assets/images/clients/Community/antorik.jpg')}}" alt=""></a></figure>
                 </div>
 
             </div>
