@@ -86,4 +86,8 @@ class PageController extends Controller
     public function fest_2025(){
         return view('Frontend.pages.poster.fest_2025');
     }
+
+    public function fest_2026(){
+        return view('Frontend.pages.poster.fest_2026');
+    }
 }

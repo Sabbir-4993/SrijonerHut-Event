@@ -18,7 +18,7 @@
     <div class="auto-container">
         <div class="sec-title text-center">
             <span class="title">Festival Schedule</span>
-            <h2>2025</h2>
+            <h2>2026</h2>
         </div>
 
         <div class="row">
@@ -35,17 +35,17 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td rowspan="6">Friday,<br> 1st Aug 2025</td>
+                            <td rowspan="6">Friday,<br> 31st July 2026</td>
                             <td>05:00PM</td>
                             <td>Kick-off Festival</td>
                             <td>-</td>
-                            <td rowspan="17">
-                                <a href="https://filmfreeway.com/BengaliFilmFestivalofDallas/tickets" title="Festival of Dallas 2025" target="_blank" class="theme-btn btn-style-two"><span class="btn-title">Get Ticket</span></a>
+                            <td rowspan="15">
+                                <a href="https://filmfreeway.com/BengaliFilmFestivalofDallas/tickets" title="Festival of Dallas 2026" target="_blank" class="theme-btn btn-style-two"><span class="btn-title">Get Ticket</span></a>
                             </td>
                         </tr>
                         <tr>
                             <td>06:00PM</td>
-                            <td>Meet - Greet</b></td>
+                            <td>Meet - Greet</td>
                             <td>-</td>
                         </tr>
                         <tr>
@@ -59,35 +59,25 @@
                             <td>-</td>
                         </tr>
                         <tr>
-                            <td>08:30PM</td>
-                            <td>Short Film</b></td>
-                            <td>Re-Routing by Kankana Charaborty</td>
-                        </tr>
-                        <tr>
-                            <td>10:00PM</td>
-                            <td>Feature Film</b></td>
-                            <td>Nakshi Kanthar Jamin</td>
-                        </tr>
-                        <tr>
-                            <td rowspan="7">Saturday,<br> 2nd Aug 2025</td>
-                            <td>12:00PM</td>
-                            <td>Saminar</b></td>
-                            <td>Celebrating Mrinal Sen</td>
-                        </tr>
-                        <tr>
-                            <td>02:00PM</td>
+                            <td></td>
                             <td>Short Film</td>
-                            <td>The Ruin</td>
+                            <td></td>
                         </tr>
                         <tr>
-                            <td>03:00PM</td>
+                            <td>08:00PM</td>
                             <td>Feature Film</td>
-                            <td>Bijoyar Pore</td>
+                            <td>Utshob</td>
                         </tr>
                         <tr>
-                            <td>04:00PM</td>
-                            <td>Fashion show: </br> Nokshikanthar Chobi</td>
-                            <td>-</td>
+                            <td rowspan="5">Saturday,<br> 1st Aug 2026</td>
+                            <td></td>
+                            <td>Short Film</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td>01:30PM</td>
+                            <td>Feature Film</td>
+                            <td>অনাবৃত (Unveiled)</td>
                         </tr>
                         <tr>
                             <td>06:00PM</td>
@@ -95,30 +85,30 @@
                             <td>-</td>
                         </tr>
                         <tr>
-                            <td>08:30PM</td>
+                            <td></td>
                             <td>Short Film</td>
-                            <td>The Circle by Mahamudul Hasan Tipu</td>
+                            <td></td>
                         </tr>
                         <tr>
-                            <td>10:30PM</td>
-                            <td>Feature Flim</td>
-                            <td>Padatik</td>
+                            <td>07:30PM</td>
+                            <td>Feature Film</td>
+                            <td>স্বার্থপর (Sharthopor)</td>
                         </tr>
                         <tr>
-                            <td rowspan="4">Sunday,<br> 3rd Aug 2025</td>
+                            <td rowspan="4">Sunday,<br> 2nd Aug 2026</td>
                             <td>12:00PM</td>
                             <td>Brunch with Star</td>
                             <td>-</td>
                         </tr>
                         <tr>
-                            <td>04:30PM</td>
+                            <td></td>
                             <td>Short Film</td>
-                            <td>Manchitro: The Homeland</td>
+                            <td></td>
                         </tr>
                         <tr>
-                            <td>06:00PM</td>
+                            <td>04:30PM</td>
                             <td>Feature Film</td>
-                            <td>Parikrama</td>
+                            <td>কর্পূর (Korpur)</td>
                         </tr>
                         <tr>
                             <td>08:00PM</td>

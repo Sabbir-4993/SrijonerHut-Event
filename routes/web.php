@@ -32,6 +32,7 @@ Route::group(['prefix'=>'festival', 'as'=>'festival.'], function (){
     Route::get('/2023/details', [PageController::class, 'fest_2023'])->name('fest_2023');
     Route::get('/2024/details', [PageController::class, 'fest_2024'])->name('fest_2024');
     Route::get('/2025/details', [PageController::class, 'fest_2025'])->name('fest_2025');
+    Route::get('/2026/details', [PageController::class, 'fest_2026'])->name('fest_2026');
 });
 
 Route::get('/about', [PageController::class, 'about'])->name('about');

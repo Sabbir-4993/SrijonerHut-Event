@@ -16,7 +16,31 @@
                     <div class="schedule-timeline">
 
                         <!-- schedule Block -->
+                        <div class="schedule-block">
+                            <div class="inner-box">
+                                <div class="inner">
+                                    <div class="date">Aug<br> 2026</div>
+                                    <div>
+                                        <a href="{{route('festival.fest_2026')}}"><img src="{{asset('assets/images/poster/2026/9th Bengali Film festival of Dallas.png')}}" alt="2026 poster"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- schedule Block -->
                         <div class="schedule-block even">
+                            <div class="inner-box">
+                                <div class="inner">
+                                    <div class="date">Aug<br> 2025</div>
+                                    <div>
+                                        <a href="{{route('festival.fest_2025')}}"><img src="{{asset('assets/images/poster/2025/2025_02_03_Film Festival Poster.png')}}" alt="2025 poster"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- schedule Block -->
+                        <div class="schedule-block">
                             <div class="inner-box">
                                 <div class="inner">
                                     <div class="date">Aug<br> 2024</div>
@@ -28,7 +52,7 @@
                         </div>
 
                         <!-- schedule Block -->
-                        <div class="schedule-block">
+                        <div class="schedule-block even">
                             <div class="inner-box">
                                 <div class="inner">
                                     <div class="date">Aug<br> 2023</div>
@@ -40,7 +64,7 @@
                         </div>
 
                         <!-- schedule Block -->
-                        <div class="schedule-block even">
+                        <div class="schedule-block">
                             <div class="inner-box">
                                 <div class="inner">
                                     <div class="date">Jul<br> 2022</div>
@@ -52,7 +76,7 @@
                         </div>
 
                         <!-- schedule Block -->
-                        <div class="schedule-block ">
+                        <div class="schedule-block even">
                             <div class="inner-box">
                                 <div class="inner">
                                     <div class="date">Aug<br> 2019</div>
@@ -64,7 +88,7 @@
                         </div>
 
                         <!-- schedule Block -->
-                        <div class="schedule-block even">
+                        <div class="schedule-block">
                             <div class="inner-box">
                                 <div class="inner">
                                     <div class="date">Aug<br> 2018</div>
@@ -76,7 +100,7 @@
                         </div>
 
                         <!-- schedule Block -->
-                        <div class="schedule-block ">
+                        <div class="schedule-block even">
                             <div class="inner-box">
                                 <div class="inner">
                                     <div class="date">Jul<br> 2017</div>
@@ -88,7 +112,7 @@
                         </div>
 
                         <!-- schedule Block -->
-                        <div class="schedule-block even">
+                        <div class="schedule-block">
                             <div class="inner-box">
                                 <div class="inner">
                                     <div class="date">Aug<br> 2016</div>

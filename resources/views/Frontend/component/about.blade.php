@@ -12,11 +12,11 @@
                 <div class="inner-column">
                     <div class="sec-title">
                         <span class="title">ABOUT FESTIVAL</span>
-                        <h2>Welcome to the 8th Bengali Film Festival of Dallas 2025</h2>
-                        <div class="text">Srijoner Hut is proud to present the 8th Bengali Film Festival of Dallas on August 1st, 2nd, and 3rd, 2025—a grand celebration of Bengali cinema, culture, and heritage. This year, we are introducing the theme "Nakshi Kantha," a centuries-old embroidered quilt art form that originated in the rural landscapes of Bengal, now part of Bangladesh and India. Beyond the silver screen, the festival will be enriched with a Nakshi Kantha exhibition and a fashion show, curated by Tahsina Shahin, the renowned fashion designer from Sadakalo. This marks the first-ever showcase of Nakshi Kantha fashion in North America, blending tradition with contemporary creativity. Join us in celebrating the artistry, storytelling, and cultural richness of Bengal like never before!</div>
+                        <h2>Welcome to the 9th Bengali Film Festival of Dallas 2026</h2>
+                        <div class="text">Srijonerhut warmly welcomes you to the 9th edition of the Bengali Film Festival of Dallas, taking place on July 31, August 1 & 2, 2026. This vibrant three-day celebration honors the spirit of Bengali cinema, culture, and heritage while bringing together storytellers, artists, and audiences from around the world. We proudly invite filmmakers to submit their work and be part of a dynamic platform that showcases powerful narratives, fresh perspectives, and creative excellence. From independent voices to established directors, the festival embraces stories that inspire, challenge, and connect communities across borders. Set in the heart of Dallas, the festival promises unforgettable screenings, engaging conversations, and meaningful cultural exchange. It is more than a film festival—it is a gathering of passion, tradition, and innovation. Join us in celebrating the artistry and storytelling of Bengal. Mark your calendar and be part of this extraordinary cinematic journey.</div>
                     </div>
                     <div class="btn-box">
-                        <a href="https://filmfreeway.com/BengaliFilmFestivalofDallas/tickets" title="Festival of Dallas 2025" target="_blank" class="theme-btn btn-style-two"><span class="btn-title">Get Your Ticket</span></a>
+                        <a href="https://filmfreeway.com/BengaliFilmFestivalofDallas/tickets" title="Festival of Dallas 2026" target="_blank" class="theme-btn btn-style-two"><span class="btn-title">Buy Your Ticket</span></a>
                     </div>
                 </div>
             </div>
@@ -26,7 +26,7 @@
                 <div class="image-box">
                     <figure class="image wow fadeIn">
                         <a href="https://filmfreeway.com/BengaliFilmFestivalofDallas/tickets" target="_blank" title="2024_festivals_Poster">
-                        <img src="{{asset('../../assets/images/poster/2025/2025_02_03_Film Festival Poster.png')}}" alt="2024_festivals_Poster">
+                        <img src="{{asset('../../assets/images/poster/2026/9th Bengali Film festival of Dallas.png')}}" alt="2024_festivals_Poster">
                         </a>
                     </figure>
                 </div>

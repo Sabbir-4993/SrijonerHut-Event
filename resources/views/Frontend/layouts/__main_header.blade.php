@@ -35,6 +35,7 @@
                                             <li><a href="{{route('festival.fest_2023')}}">2023</a></li>
                                             <li><a href="{{route('festival.fest_2024')}}">2024</a></li>
                                             <li><a href="{{route('festival.fest_2025')}}">2025</a></li>
+                                            <li><a href="{{route('festival.fest_2026')}}">2026</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="{{route('festival.schedule')}}">Schedules</a></li>
@@ -63,7 +64,7 @@
                 <div class="outer-box">
                     <!-- Button Box -->
                     <div class="btn-box">
-                        <a href="https://filmfreeway.com/BengaliFilmFestivalofDallas/tickets" title="Festival of Dallas 2025" target="_blank" class="theme-btn btn-style-two"><span class="btn-title">Get your Ticket</span></a>
+                        <a href="https://filmfreeway.com/BengaliFilmFestivalofDallas/tickets" title="Festival of Dallas 2026" target="_blank" class="theme-btn btn-style-two"><span class="btn-title">Buy Your Ticket</span></a>
                     </div>
                 </div>
             </div>

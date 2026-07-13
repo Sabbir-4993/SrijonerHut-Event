@@ -2,7 +2,7 @@
     <div class="auto-container">
         <div class="outer-box">
             <div class="time-counter">
-                <div class="time-countdown clearfix" data-countdown="08/02/2024 18:00:00"></div>
+                <div class="time-countdown clearfix" data-countdown="07/31/2026 18:00:00"></div>
             </div>
         </div>
     </div>
