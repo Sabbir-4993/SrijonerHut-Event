@@ -19,7 +19,7 @@ class ContactController extends Controller
         $data = $request->only('username', 'phone', 'email', 'subject', 'message');
 
         Mail::send([], [], function ($message) use ($data) {
-            $message->to('sabbir5795@email.com')  // ✅ Replace with your receiving email
+            $message->to('creativex71@gmail.com')
             ->from('noreply@srijonerhut.com', 'Website Contact')
                 ->subject('Contact Form: ' . $data['subject'])
                 ->html("

@@ -32,18 +32,14 @@
 
                         images.forEach(image => {
                             const imageBox = document.createElement('div');
-                            imageBox.className = 'gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn';
+                            imageBox.className = 'gm-item wow fadeIn';
 
                             imageBox.innerHTML = `
-                        <div class="image-box">
-                            <figure class="image">
-                                <img src="{{ asset('assets/images/gallery/${year}/${image.filename}') }}" alt="${image.alt}">
-                            </figure>
-                            <div class="overlay-box">
-                                <a href="{{ asset('assets/images/gallery/${year}/${image.filename}') }}" class="lightbox-image" data-fancybox='gallery'>
-                                    <span class="icon fa fa-expand-arrows-alt"></span>
-                                </a>
-                            </div>
+                        <img src="{{ asset('assets/images/gallery/${year}/${image.filename}') }}" alt="${image.alt}">
+                        <div class="gm-overlay">
+                            <a href="{{ asset('assets/images/gallery/${year}/${image.filename}') }}" class="gm-expand lightbox-image" data-fancybox='gallery'>
+                                <span class="icon fa fa-expand-arrows-alt"></span>
+                            </a>
                         </div>
                     `;
 

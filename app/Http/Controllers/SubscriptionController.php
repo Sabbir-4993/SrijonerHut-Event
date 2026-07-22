@@ -18,6 +18,10 @@ class SubscriptionController extends Controller
         $email = $request->input('email');
         Mail::to('creativex71@gmail.com')->send(new \App\Mail\NewsletterSubscription($email));
 
+        if ($request->wantsJson()) {
+            return response()->json(['message' => 'Thank you for subscribing to our newsletter!']);
+        }
+
         // You may add a success message or redirect back to the form page
         return back()->with('success', 'Thank you for subscribing to our newsletter!');
     }

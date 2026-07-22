@@ -375,7 +375,7 @@
 	}
 
 	//Contact Form Validation
-	if($('#contact-form').length){
+	if($('#contact-form').length && typeof $.fn.validate === 'function'){
 		$('#contact-form').validate({
 			rules: {
 				name: {
